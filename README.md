@@ -5,8 +5,6 @@ Word Guess Command Line Game is a hangman style game played from the console whe
 This program is written in JavaScript in Node.js. It uses the random-words npm package to randomly generate the provided word, and inquirer.js to prompt user for their guesses.
 
 ## Table of Contents
-- [Word-Guess-Game](#word-guess-game)
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [Technologies](#technologies)
