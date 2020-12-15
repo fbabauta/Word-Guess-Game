@@ -17,6 +17,8 @@ This program is written in JavaScript in Node.js. It uses the random-words npm p
 * After installing dependencies, run node index.js to initalize the program
 * Make guesses when prompted
 
+![Project Image or Gif](assets/word-guess-game.gif)
+
 ## Technologies
 * JavaScript
 * Node.js
